@@ -1,1 +1,1 @@
-#LexDAO Mission Statement
+#LexDAO Mission Statement - LexDAO is a [WYOMING, IDAHO, DC] U.S based unicorporated non-profit association of legal engineering professionals.  Our mission is to educate, reasearch and provide a trusted layer between the decentralized world of blockchains and a legal settlement layer in the real world. We are trying to bridge this layer to provide a working framework for organizations to work in a trustless and trusted manner using Ethereum, blockchains, smart contracts and decentralized organizations.
