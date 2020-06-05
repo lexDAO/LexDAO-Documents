@@ -33,12 +33,14 @@ LexDAO's legal "wrapper" is an unincorporated nonprofit.  This is important to m
 
 The governing body of LexDAO consists exclusively of LexDAO community members.  Admission to the governing body requires at least two of the following: 
 
-1. Attend a weekly community call (Friday 11 PT / ET @ [https://zoom.us/j/6966768498)](https://zoom.us/j/6966768498)
-2. Write a blogpost about LexDAO (min. 500 words)
-3. Shill LexDAO consistently, e.g., tweet/retweet/meme about LexDAO
-4. Build for LexDAO, e.g., front and back end support, improve LexDAO's not-your-lawyer office, build/automate/improve/organize legal workflow via smart contracts and other engineering tools
-5. Offer services using LexDAO products
-6. Vouched by an incumbent governing member
+   1. Attend a weekly community call (Friday 11 PT / ET @ [https://zoom.us/j/6966768498)](https://zoom.us/j/6966768498)
+   2. Write a blogpost about LexDAO (min. 500 words)
+   3. Shill LexDAO consistently, e.g., tweet/retweet/meme about LexDAO
+   4. Build for LexDAO, e.g., front and back end support, improve LexDAO's not-your-lawyer office, build/automate/improve/organize legal workflow via smart contracts and other engineering tools
+   5. Offer services using LexDAO products
+   6. Vouched by an incumbent governing member
+
+To signal an intent to join LexDAO, prospective members must tweet at LexDAO (@lex_DAO). An example of such tweet may be `I am not a robot 🤖 and I pledge to join @lex_DAO`.
 
 All LexDAO governing members will receive one LDM (LexDAO Member Token). LDM is a vote token for participating in and improving governance of LexDAO. Once the admission requirements are met the prospective member is put up to a vote of the full LDM membership. The governing body will consistently review, and if necessary, make adjustments to the admission requirements based on its evolving needs. 
 
