@@ -23,7 +23,7 @@ These Terms of Service ("Terms") form a binding legal agreement between each per
 
 **Redeeming $[[token name]]**
 
-6. You can redeem $[[token name]] by sending it to 0x[[redeem address]].
+6. You can redeem $[[token name]] by sending it to $[[consultant address]].
 
 7. You cannot redeem $[[token name]] for any services that:
 
@@ -35,7 +35,7 @@ These Terms of Service ("Terms") form a binding legal agreement between each per
 
 8. If you attempt to redeem $[[token name]] in contravention of the requirements listed in section 7 above, Consultant reserves the right to refuse to provide Services and not refund any $[[token name]] that you have redeemed.
 
-9. Unless otherwise agreed between you and Consultant in writing, payment for the Services must be paid [[start fifty percent]] percent upon entering into a statement of work and [[last fifty percent]] percent upon the delivery of the deliverables outlined in such statement of work. Each whole token is redeemable for a one (1) minute period of billable time by Consultant. No partial tokens may be redeemed.
+9. Unless otherwise agreed between you and Consultant in writing, payment for the Services must be paid fifty percent percent upon entering into a statement of work and last percent upon the delivery of the deliverables outlined in such statement of work. Each whole token is redeemable for a one (1) minute period of billable time by Consultant. No partial tokens may be redeemed.
 
 10. In the event the time required to complete any of the Services is less than the amount of time paid for by you, Consultant will round up to the next full fifteen (15) minute period and then return any $[[token name]] paid by you for unused time.
 
@@ -80,4 +80,4 @@ These Terms of Service ("Terms") form a binding legal agreement between each per
 25. YOU AGREE THAT ANY CLAIM, DISPUTE, OR CONTROVERSY OF WHATEVER NATURE ARISING OUT OF OR RELATING TO CONSULTANT’S SERVICES SHALL BE RESOLVED BY FINAL AND BINDING RESOLUTION IN ACCORDANCE WITH LEXDAO ARBITRATION.
 
 ---
-Consultant: 0x[[consultant ETH address]]
+Consultant: $[[consultant address]]
