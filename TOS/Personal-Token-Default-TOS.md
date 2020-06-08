@@ -2,7 +2,7 @@
 
 **Terms of Service for $[[token name]]**
 
-These Terms of Service ("Terms") form a binding legal agreement between each person who holds or has redeemed $[[token name]] tokens ("you") and [[consultant name]] ("Consultant"). $[[token name]] tokens exist on the Ethereum blockchain. The Consultant will make the contract address associated with the $[[token name]] tokens publicly available.
+These Terms of Service ("Terms") form a binding legal agreement between each person who holds or has redeemed $[[token name]] tokens ("you") and $[[consultant name]] ("Consultant"). $[[token name]] tokens exist on the Ethereum blockchain. The Consultant will make the contract address associated with the $[[token name]] tokens publicly available.
 
 **Acquiring $[[token name]]**
 
