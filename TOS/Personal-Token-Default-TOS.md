@@ -1,3 +1,7 @@
+---
+tags: Documents
+---
+
 # Default Personal Token Terms of Service
 
 **Terms of Service for $[[token name]]**
