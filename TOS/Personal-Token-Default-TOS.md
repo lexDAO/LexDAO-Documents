@@ -4,84 +4,81 @@ tags: Documents
 
 # Default Personal Token Terms of Service
 
-**Terms of Service for $[[token name]]**
+__**Terms of Service for $[[Token Symbol]]**__
 
-These Terms of Service ("Terms") form a binding legal agreement between each person who holds or has redeemed $[[token name]] tokens ("you") and $[[consultant name]] ("Consultant"). $[[token name]] tokens exist on the Ethereum blockchain. The Consultant will make the contract address associated with the $[[token name]] tokens publicly available.
+These Terms of Service ("***Terms***") form a binding legal agreement between each person who holds or has redeemed $[[Token Symbol]] tokens ("***you***") and [[Token Name]] and related issuers ("***Consultant***"). $[[Token Symbol]] tokens exist on the Ethereum blockchain at an address generated and indexed by the ERC-20 token program located at 0xAD5B189E64f3D972dec81F286b6101782aD37943.
 
-**Acquiring $[[token name]]**
+**__Acquiring $[[Token Symbol]]__**
 
-1. By acquiring or holding $[[token name]], you have the following rights:
+1. By acquiring or holding $[[Token Symbol]], you have the following rights:
 
-    i. to redeem $[[token name]] for Consultant’s services; and
-    
-    ii. to sell, transfer, lend, gift, burn or otherwise deal with $[[token name]] tokens as you see fit. This right is enforced by the $[[token name]] smart contract and the Ethereum blockchain and is noted here for completeness.
+(a) to redeem $[[Token Symbol]] for Consultant’s services; and
 
-2. These Terms do not impose any obligations or liability on you if all you do is acquire, buy, sell or hold $[[token name]]. Redemption of $[[token name]] is subject to the terms set forth below.
+(b) to sell, transfer, lend, gift, burn or otherwise deal with $[[Token Symbol]] tokens as you see fit. This right is enforced by the $[[Token Symbol]] smart contract and the Ethereum blockchain and is noted here for completeness.
+   
+2. These Terms do not impose any obligations or liability on you if all you do is acquire, buy, sell or hold $[[Token Symbol]]. Redemption of $[[Token Symbol]] is subject to the terms set forth below. 
 
-**Minting and burning of $[[token name]]**
+__**Minting and burning of $[[Token Symbol]]**__
 
-3. Consultant through LexDAO may mint more $[[token name]] at any time up to the overall issuance cap.
+3. There is a maximum supply of [[Token Supply Cap]] $[[Token Symbol]] tokens that will ever exist. Consultant may mint more $[[Token Symbol]] at any time, provided the maximum supply is not exceeded.
 
-4. Consultant may burn any amount of $[[token name]] held by Consultant at any time. In the sole and complete discretion of LexDAO, the DAO may be able to recover and burn the token through a vote approved by the DAO. This will in cases of dispute be handled by LexDAO Arbitration or its assigns.
-5. The above rights are enforced by the $[[token name]] smart contract and the Ethereum blockchain and are noted here for completeness.
+4. Consultant may burn any amount of $[[Token Symbol]] held by Consultant at any time. Consultant does not have the right or ability to burn $[[Token Symbol]] that Consultant does not hold. 
 
-**Redeeming $[[token name]]**
+5. The above rights are enforced by the $[[Token Symbol]] smart contract and the Ethereum blockchain and are noted here for completeness. 
 
-6. You can redeem $[[token name]] by sending it to $[[consultant address]].
+**__Redeeming $[[Token Symbol]]__**
 
-7. You cannot redeem $[[token name]] for any services that:
+6. You can redeem $[[Token Symbol]] by sending it to 0x[[Token Issuer]] and/or by means of other redemption methods offered by Consultant.
 
-    i. are not listed by Consultant or otherwise agreed between you and Consultant prior to redemption;
-    
-    ii. are prohibited by the laws or regulations of any jurisdiction(s) that you or Consultant are subject to; or
-    
-    iii. would require Consultant to assist in or provide advice about how to commit, or avoid detection or prosecution for the commission of, any illegal act in any jurisdiction.
+7. You cannot redeem $[[Token Symbol]] for any services that:
 
-8. If you attempt to redeem $[[token name]] in contravention of the requirements listed in section 7 above, Consultant reserves the right to refuse to provide Services and not refund any $[[token name]] that you have redeemed.
+(a) are not listed or otherwise agreed between you and Consultant prior to redemption;
+ 
+(b) are prohibited by the laws or regulations of any jurisdiction(s) that you or Consultant are subject to; or
 
-9. Unless otherwise agreed between you and Consultant in writing, payment for the Services must be paid fifty percent percent upon entering into a statement of work and last percent upon the delivery of the deliverables outlined in such statement of work. Each whole token is redeemable for a one (1) minute period of billable time by Consultant. No partial tokens may be redeemed.
+(c) would require Consultant to assist in or provide advice about how to commit, or avoid detection or prosecution for the commission of, any illegal act in any jurisdiction. 
+   
+8. If you attempt to redeem $[[Token Symbol]] in contravention of the requirements listed in *section 7* above, Consultant reserves the right to refuse to provide Services and not refund any $[[Token Symbol]] that you have redeemed. 
 
-10. In the event the time required to complete any of the Services is less than the amount of time paid for by you, Consultant will round up to the next full fifteen (15) minute period and then return any $[[token name]] paid by you for unused time.
+9. In order to avoid any doubt, Consultant may require you to sign a message from the same Ethereum address that you redeemed $[[Token Symbol]] from. This will only be required if there is any doubt or dispute about the person(s) claiming to have made the redemption transaction. 
 
-11. In order to avoid any doubt, Consultant may require you to sign a message from the same Ethereum address that you redeemed $[[token name]] from. This will only be required if there is any doubt or dispute about the person(s) claiming to have made the redemption transaction.
+10. All $[[Token Symbol]] tokens will expire at 11:59pm Pacific Time on December 30, 2024. After this time, the tokens may still exist in the smart contract on the Ethereum blockchain, but you will not be able to redeem them for Consultant’s services. 
 
-12. Provided that the above criteria are met, Consultant agrees to provide professional services ("Services") to any person who redeems $[[token name]], on the terms set forth in these Terms.
+11. Provided that the above criteria are met, Consultant agrees to provide professional services ("***Services***") to any person who redeems $[[Token Symbol]], on the terms set forth in these Terms. 
 
-13. Prior to the redemption of any $[[token name]] by you for the Services, you and Consultant must enter into a written statement of work that defines the scope of service, deliverables, and acceptance standards for any such deliverables.
+**__Performing the Services__**
 
-14. $[[token name]] may not be redeemed for legal advice or legal representation, unless otherwise agreed between you and Consultant in writing prior to the redemption of your $[[token name]]. None of the Services shall otherwise constitute or be understood to be providing legal advice or counsel. None of the Services will create an attorney-client relationship between you and Consultant. Consultant retains the right to contract with other companies or entities for the Services without restriction.
+12. Consultant will make reasonable best efforts in good faith to provide the Services to you as soon as possible after you redeem $[[Token Symbol]]. Consultant does not guarantee availability or provide any commitment about when Consultant will be able to provide the Services to you.  
 
-**Independent Contractor Relationship**
+13. If at any time you attempt to procure Consultant to provide Services in contravention of the requirements in *section 7* above, Consultant reserves the right to cease to provide Services and not to refund any $[[Token Symbol]] that you have redeemed.
 
-15. Consultant's relationship with you will be that of an independent contractor, and nothing in these Terms intended to, or should be construed to create a partnership, agency, joint venture, or employment relationship. Consultant is not entitled to any employee benefits from you. Consultant will provide and use their own computer and all other equipment required to perform services for you.
+**__Independent Contractor Relationship__**
 
-**Fees**
+14. Consultant's relationship with you will be that of an independent contractor, and nothing in these Terms intended to, or should be construed to create a partnership, agency, joint venture, or employment relationship. Consultant is not entitled to any employee benefits from you. Consultant will provide and use their own computer and all other equipment required to perform services for you.
 
-16. Apart from redeeming $[[token name]], you do not have to pay any other fees for the Services.
+**__Fees__**
 
-**Ownership of Work Product**
+15. Apart from redeeming $[[Token Symbol]], you do not have to pay any other fees for the Services.
 
-17. Consultant agrees that any and all work product developed by Consultant alone or in conjunction with others in connection with the performance of services pursuant to these Terms is and shall be your sole property, and Consultant shall retain no ownership, interest, or rights therein. Work product includes but is not limited to reports, graphics, memoranda, presentations, email and letter correspondence between Consultant and you, and between Consultant and third parties on behalf of you.
+**__Ownership of Work Product__**
 
-**Confidentiality**
+16. Consultant agrees that any and all work product developed by Consultant alone or in conjunction with others in connection with the performance of services pursuant to these Terms is and shall be your sole property, and Consultant shall retain no ownership, interest, or rights therein. Work product includes but is not limited to reports, graphics, memoranda, presentations, email and letter correspondence between Consultant and you, and between Consultant and third parties on behalf of you. 
 
-18. "Confidential Information" means any and all technical and nontechnical information including patent, copyright, trade secret, proprietary information, designs, business plans, all files and client information related to any of your past, current, future, and proposed business, without limitation, your property, and your information concerning customers, research, financial information, purchasing, business forecasts, sales and merchandising, and marketing plans and information, whether in digital or physical format.
+**__Confidentiality__**
 
-19. Consultant agrees to protect the confidentiality of all of your Confidential Information and, except as permitted in this section, Consultant shall neither use nor disclose the Confidential Information. Consultant may use the Confidential Information solely to perform the Services under these Terms for your benefit.
+17. "Confidential Information" means any and all technical and nontechnical information including patent, copyright, trade secret, proprietary information, designs, business plans, all files and client information related to any of your past, current, future, and proposed business, without limitation, your property, and your information concerning customers, research, financial information, purchasing, business forecasts, sales and merchandising, and marketing plans and information, whether in digital or physical format.
 
-20. Consultant's obligations above with respect to any portion of the Confidential Information shall not apply to any such portion that Consultant can demonstrate (a) was in the public domain at or subsequent to the time such portion was communicated to Consultant by you, (b) was rightfully in Consultant's possession free of any obligation of confidence at or subsequent to the time such portion was communicated to Consultant by you, or (c) was developed by Consultant independently of and without reference to any information communicated to Consultant by you.
+18. Consultant agrees to protect the confidentiality of all of your Confidential Information and, except as permitted in this section, Consultant shall neither use nor disclose the Confidential Information. Consultant may use the Confidential Information solely to perform the Services under these Terms for your benefit.
 
-**Limitation of Liability**
+19. Consultant's obligations above with respect to any portion of the Confidential Information shall not apply to any such portion that Consultant can demonstrate (a) was in the public domain at or subsequent to the time such portion was communicated to Consultant by you (b) was rightfully in Consultant's possession free of any obligation of confidence at or subsequent to the time such portion was communicated to Consultant by you or (c) was developed by Consultant independently of and without reference to any information communicated to Consultant by you. 
 
-21. YOU AGREE, TO THE FULLEST EXTENT PERMITTED BY LAW, TO LIMIT THE LIABILITY OF CONSULTANT TO YOU FOR ANY AND ALL CLAIMS, LOSSES, COSTS, EXPENSES, OR DAMAGES OF ANY NATURE WHATSOEVER, FROM ANY CAUSE OR CAUSES, SO THAT THE TOTAL AGGREGATE LIABILITY OF CONSULTANT TO YOU SHALL NOT EXCEED THE US DOLLAR EQUIVALENT VALUE OF $[[token name]] TOKENS REDEEMED BY YOU AT THE TIME OF REDEMPTION. IT IS INTENDED THAT THIS LIMITATION APPLY TO ANY AND ALL LIABILITY OR CAUSES OF ACTION HOWEVER ALLEGED OR ARISING, UNLESS OTHERWISE SPECIFICALLY PROHIBITED BY LAW. ALL CLAIMS AGAINST CONSULTANT SHALL BE DEEMED WAIVED UNLESS MADE IN WRITING AND RECEIVED BY CONSULTANT WITHIN ONE MONTH AFTER COMPLETION OF THE SERVICES WITH RESPECT TO WHICH THE CLAIM IS BEING MADE.
+**__Limitation of Liability__**
 
-22. NOTWITHSTANDING ANY PROVISION IN THESE TERMS TO THE CONTRARY, NO PARTY SHALL BE LIABLE HEREUNDER FOR ANY CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES (INCLUDING LOST PROFITS).
+20. You agree, to the fullest extent permitted by law, to limit the liability of Consultant to you for any and all claims, losses, costs, expenses, or damages of any nature whatsoever, from any cause or causes, so that the total aggregate liability of Consultant to you shall not exceed the US Dollar equivalent value of $[[Token Symbol]] Tokens redeemed by you at the time of redemption. It is intended that this limitation apply to any and all liability or causes of action however alleged or arising, unless otherwise specifically prohibited by law. All claims against Consultant shall be deemed waived unless made in writing and received by Consultant within one month after completion of the Services with respect to which the claim is being made.
 
-23. YOU ACCEPT AND ACKNOWLEDGE THAT THERE ARE RISKS ASSOCIATED WITH HOLDING OR USING $[[token name]] OR USING THE ETHEREUM NETWORK, INCLUDING, BUT NOT LIMITED TO, THE RISK OF LOSING ACCESS TO YOUR ETHEREUM ADDRESS DUE TO LOSS OF PRIVATE KEYS, SEED WORDS OR OTHER CREDENTIALS, AND THE RISK OF UNKNOWN VULNERABILITIES IN THE $[[token name]] SMART CONTRACT CODE OR THE ETHEREUM NETWORK PROTOCOL. YOU ACKNOWLEDGE AND ACCEPT ALL SUCH RISKS AND AGREE THAT CONSULTANT IS NOT RESPONSIBLE AND IS NOT LIABLE FOR ANY LOSS OF VALUE YOU MAY EXPERIENCE AS A RESULT. YOU ACCEPT AND ACKNOWLEDGE THAT CONSULTANT WILL NOT BE RESPONSIBLE FOR ANY LOSSES, FAILURES, DISRUPTIONS, ERRORS, DISTORTIONS OR DELAYS YOU MAY EXPERIENCE WHEN HOLDING OR USING $[[token name]] HOWEVER CAUSED.
+21. Notwithstanding any provision in these Terms to the contrary, no Party shall be liable hereunder for any consequential, special, or punitive damages (including lost profits).
 
-24. THE CONSULTANT IS A MEMBER OF GOOD STANDING WITHIN LEXDAO AND IN THE CASE OF A DISPUTE LEXDAO, LLC WILL REFUND THE LOWER OF THE PROVEN COST OF SALE OF THE TOKEN UP TO AN AMOUNT HELD IN THIS LEXGROW CONTRACT "THE BOND". THERE ARE NO GUARANTEES THAT THERE WILL BE ENOUGH VALUE IN SAID CONTRACT TO REFUND ALL TOKENS IN ALL USE CASES.
-
-25. YOU AGREE THAT ANY CLAIM, DISPUTE, OR CONTROVERSY OF WHATEVER NATURE ARISING OUT OF OR RELATING TO CONSULTANT’S SERVICES SHALL BE RESOLVED BY FINAL AND BINDING RESOLUTION IN ACCORDANCE WITH LEXDAO ARBITRATION.
+22. You accept and acknowledge that there are risks associated with holding or using $[[Token Symbol]] and using the Ethereum Network, including but not limited to, the risk of losing access to your Ethereum address due to loss of private keys, seed words or other credentials, and the risk of unknown vulnerabilities in the $[[Token Symbol]] smart contract code or the Ethereum Network Protocol. You acknowledge and accept all such risks and agree that Consultant is not responsible and is not liable for any loss of value you may experience as a result. You accept and acknowledge that Consultant will not be responsible for any losses, failures, disruptions, errors, distortions, or delays you may experience when holding or using $[[Token Symbol]] however caused.
 
 ---
 Consultant: $[[consultant address]]
