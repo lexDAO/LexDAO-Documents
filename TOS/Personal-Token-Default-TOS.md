@@ -4,11 +4,11 @@ tags: Documents
 
 # Default Personal Token Terms of Service
 
-__**Terms of Service for $[[Token Symbol]]**__
+**Terms of Service for $[[Token Symbol]]**
 
 These Terms of Service ("***Terms***") form a binding legal agreement between each person who holds or has redeemed $[[Token Symbol]] tokens ("***you***") and [[Token Name]] and related issuers ("***Consultant***"). $[[Token Symbol]] tokens exist on the Ethereum blockchain at an address generated and indexed by the ERC-20 token program located at 0xAD5B189E64f3D972dec81F286b6101782aD37943.
 
-**__Acquiring $[[Token Symbol]]__**
+**Acquiring $[[Token Symbol]]**
 
 1. By acquiring or holding $[[Token Symbol]], you have the following rights:
 
@@ -18,7 +18,7 @@ These Terms of Service ("***Terms***") form a binding legal agreement between ea
    
 2. These Terms do not impose any obligations or liability on you if all you do is acquire, buy, sell or hold $[[Token Symbol]]. Redemption of $[[Token Symbol]] is subject to the terms set forth below. 
 
-__**Minting and burning of $[[Token Symbol]]**__
+**Minting and burning of $[[Token Symbol]]**
 
 3. There is a maximum supply of [[Token Supply Cap]] $[[Token Symbol]] tokens that will ever exist. Consultant may mint more $[[Token Symbol]] at any time, provided the maximum supply is not exceeded.
 
@@ -26,7 +26,7 @@ __**Minting and burning of $[[Token Symbol]]**__
 
 5. The above rights are enforced by the $[[Token Symbol]] smart contract and the Ethereum blockchain and are noted here for completeness. 
 
-**__Redeeming $[[Token Symbol]]__**
+**Redeeming $[[Token Symbol]]**
 
 6. You can redeem $[[Token Symbol]] by sending it to 0x[[Token Issuer]] and/or by means of other redemption methods offered by Consultant.
 
@@ -46,25 +46,25 @@ __**Minting and burning of $[[Token Symbol]]**__
 
 11. Provided that the above criteria are met, Consultant agrees to provide professional services ("***Services***") to any person who redeems $[[Token Symbol]], on the terms set forth in these Terms. 
 
-**__Performing the Services__**
+**Performing the Services**
 
 12. Consultant will make reasonable best efforts in good faith to provide the Services to you as soon as possible after you redeem $[[Token Symbol]]. Consultant does not guarantee availability or provide any commitment about when Consultant will be able to provide the Services to you.  
 
 13. If at any time you attempt to procure Consultant to provide Services in contravention of the requirements in *section 7* above, Consultant reserves the right to cease to provide Services and not to refund any $[[Token Symbol]] that you have redeemed.
 
-**__Independent Contractor Relationship__**
+**Independent Contractor Relationship**
 
 14. Consultant's relationship with you will be that of an independent contractor, and nothing in these Terms intended to, or should be construed to create a partnership, agency, joint venture, or employment relationship. Consultant is not entitled to any employee benefits from you. Consultant will provide and use their own computer and all other equipment required to perform services for you.
 
-**__Fees__**
+**Fees**
 
 15. Apart from redeeming $[[Token Symbol]], you do not have to pay any other fees for the Services.
 
-**__Ownership of Work Product__**
+**Ownership of Work Product**
 
 16. Consultant agrees that any and all work product developed by Consultant alone or in conjunction with others in connection with the performance of services pursuant to these Terms is and shall be your sole property, and Consultant shall retain no ownership, interest, or rights therein. Work product includes but is not limited to reports, graphics, memoranda, presentations, email and letter correspondence between Consultant and you, and between Consultant and third parties on behalf of you. 
 
-**__Confidentiality__**
+**Confidentiality**
 
 17. "Confidential Information" means any and all technical and nontechnical information including patent, copyright, trade secret, proprietary information, designs, business plans, all files and client information related to any of your past, current, future, and proposed business, without limitation, your property, and your information concerning customers, research, financial information, purchasing, business forecasts, sales and merchandising, and marketing plans and information, whether in digital or physical format.
 
@@ -72,7 +72,7 @@ __**Minting and burning of $[[Token Symbol]]**__
 
 19. Consultant's obligations above with respect to any portion of the Confidential Information shall not apply to any such portion that Consultant can demonstrate (a) was in the public domain at or subsequent to the time such portion was communicated to Consultant by you (b) was rightfully in Consultant's possession free of any obligation of confidence at or subsequent to the time such portion was communicated to Consultant by you or (c) was developed by Consultant independently of and without reference to any information communicated to Consultant by you. 
 
-**__Limitation of Liability__**
+**Limitation of Liability**
 
 20. You agree, to the fullest extent permitted by law, to limit the liability of Consultant to you for any and all claims, losses, costs, expenses, or damages of any nature whatsoever, from any cause or causes, so that the total aggregate liability of Consultant to you shall not exceed the US Dollar equivalent value of $[[Token Symbol]] Tokens redeemed by you at the time of redemption. It is intended that this limitation apply to any and all liability or causes of action however alleged or arising, unless otherwise specifically prohibited by law. All claims against Consultant shall be deemed waived unless made in writing and received by Consultant within one month after completion of the Services with respect to which the claim is being made.
 
@@ -81,4 +81,4 @@ __**Minting and burning of $[[Token Symbol]]**__
 22. You accept and acknowledge that there are risks associated with holding or using $[[Token Symbol]] and using the Ethereum Network, including but not limited to, the risk of losing access to your Ethereum address due to loss of private keys, seed words or other credentials, and the risk of unknown vulnerabilities in the $[[Token Symbol]] smart contract code or the Ethereum Network Protocol. You acknowledge and accept all such risks and agree that Consultant is not responsible and is not liable for any loss of value you may experience as a result. You accept and acknowledge that Consultant will not be responsible for any losses, failures, disruptions, errors, distortions, or delays you may experience when holding or using $[[Token Symbol]] however caused.
 
 ---
-Consultant: $[[consultant address]]
+**Consultant:** $[[consultant address]]
