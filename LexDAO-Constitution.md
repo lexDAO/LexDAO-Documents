@@ -3,6 +3,9 @@ tags: Documents
 ---
 
 # Constitution of LexDAO Club 
+
+[![hackmd-github-sync-badge](https://hackmd.io/1_WkjYeJQ4-_1oFhQQgFNQ/badge)](https://hackmd.io/1_WkjYeJQ4-_1oFhQQgFNQ)
+
 ### Originally Adopted July 17, 2020
 
 
